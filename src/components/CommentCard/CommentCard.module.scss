@@ -1,0 +1,10 @@
+.comment {
+  &__sender {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+  }
+  &__content {
+    padding: 8px;
+  }
+}

@@ -1,0 +1,17 @@
+.post {
+  display: flex;
+  gap: 20px;
+
+  &__info {
+    height: 100%;
+    width: 200px;
+    box-sizing: border-box;
+  }
+
+  &__comments {
+    padding-inline: 16px;
+    color: #000;
+    height: 100%;
+    border-left: 2px solid #acacac;
+  }
+}
